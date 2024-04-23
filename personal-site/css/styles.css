@@ -1,0 +1,77 @@
+/* 
+    COLOR PALLETTE 
+
+    Licorice: #1E000E
+    Wine: #823038
+    Hooker's Green: #496F5D
+    Glaucous: #6279B8
+    Alice Blue: #D9E1E8
+    Powder Blue: #9EADD0
+    Light Blue: #C1EEFF
+*/ 
+
+/* GLOBAL STYLES
+----------------------------------------- */ 
+
+
+body {
+    background: #823038;
+}
+
+/* LINK STYLES 
+----------------------------------------- */ 
+
+a {
+    color: #6279B8;
+}
+a:hover {
+    color: #C1EEFF;
+    text-decoration: none;
+}
+footer a {
+    color:  #1E000E;
+}
+footer a:hover {
+    color: #D9E1E8; 
+}
+.btn {
+    background: #1E000E; 
+    color: white; 
+    text-decoration: none; 
+}
+
+/* HOME 
+----------------------------------------- */ 
+
+.home {
+    background: url(../images/bg-home-office-studio.jpg) no-repeat;
+    background-size: cover;
+}
+.home .content-wrapper {
+    background: rbg(255,255,255 / 0.9); 
+
+}
+
+/* RESUME 
+----------------------------------------- */ 
+
+/* Portfolio 
+----------------------------------------- */ 
+
+/* PROJECTS 
+----------------------------------------- */ 
+
+/* WORK EXPERIENCE 
+----------------------------------------- */ 
+
+/* EDUCATION 
+
+----------------------------------------- */ 
+
+/* FOOTER 
+----------------------------------------- */ 
+
+.footer {
+    background: #496F5D; 
+    color:#D9E1E8; 
+}
