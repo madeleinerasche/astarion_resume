@@ -71,7 +71,8 @@ footer a:hover {
 
 }
 .content-bg {
-    background: rbg(255 255 255 / 0.9); 
+    background: #D9E1E8;
+    opacity: 0.9; 
     padding: 30px; 
 }
 
